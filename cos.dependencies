@@ -1,0 +1,14 @@
+[
+  {
+    "repository": "travarilo/kernel_asus_sdm660",
+    "target_path": "kernel/asus/sdm660",
+    "branch": "pie",
+    "remote": "github"
+  },
+  {
+    "repository": "travarilo/proprietary_vendor_asus",
+    "target_path": "vendor/asus",
+    "remote": "github",
+    "branch": "pie"
+  }
+]
